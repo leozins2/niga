@@ -1,0 +1,42 @@
+[
+  {
+    "id": "78ef9655-d28c-4210-b330-6e1f365eac51",
+    "name": "negro",
+    "email": "negro@firemail.com.br",
+    "password": "c2910cab69518f2b2faa77afcc5dbf11c047d955d967b21aa6966564a3c1bf4a",
+    "confirmed": false,
+    "createdAt": "2026-04-15T20:56:25.486Z"
+  },
+  {
+    "id": "58e2a2b0-af6d-4e1e-aaf8-465a555ca7ed",
+    "name": "X7",
+    "email": "negros@firemail.com.br",
+    "password": "c2910cab69518f2b2faa77afcc5dbf11c047d955d967b21aa6966564a3c1bf4a",
+    "confirmed": false,
+    "createdAt": "2026-04-15T21:00:35.122Z"
+  },
+  {
+    "id": "7643d981-45a6-440f-af96-154d343a5f30",
+    "name": "X7",
+    "email": "anonimo00artista@gmail.com",
+    "password": "c2910cab69518f2b2faa77afcc5dbf11c047d955d967b21aa6966564a3c1bf4a",
+    "confirmed": false,
+    "createdAt": "2026-04-15T21:01:53.398Z"
+  },
+  {
+    "id": "90d98287-a3c8-4331-b3f9-09ec625a74ce",
+    "name": "rrhrdh",
+    "email": "negro123@firemail.com.br",
+    "password": "c2910cab69518f2b2faa77afcc5dbf11c047d955d967b21aa6966564a3c1bf4a",
+    "confirmed": false,
+    "createdAt": "2026-04-15T21:02:35.806Z"
+  },
+  {
+    "id": "1d3cfb30-7ddd-45ad-826e-42506d52e034",
+    "name": "sfsdfgsdg",
+    "email": "leozin00artista@gmail.com",
+    "password": "c2910cab69518f2b2faa77afcc5dbf11c047d955d967b21aa6966564a3c1bf4a",
+    "confirmed": false,
+    "createdAt": "2026-04-15T21:54:26.532Z"
+  }
+]

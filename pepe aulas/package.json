@@ -1,0 +1,18 @@
+{
+  "name": "probability-analyzer",
+  "version": "1.0.0",
+  "description": "Sistema avançado de análise de probabilidades para eventos diversos",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "build": "echo Build completed - no build step needed"
+  },
+  "keywords": ["probability", "analysis", "events", "predictions"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
