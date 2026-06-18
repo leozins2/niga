@@ -1,0 +1,29 @@
+========================================
+  COMO ADICIONAR A IMAGEM DE FUNDO
+========================================
+
+1. SALVE a imagem que você quer usar como fundo
+
+2. RENOMEIE a imagem para: background.jpg
+
+3. COLOQUE a imagem na pasta: public/images/
+
+   Caminho completo: public/images/background.jpg
+
+4. REINICIE o servidor (feche e abra o start.bat novamente)
+
+5. ATUALIZE a página no navegador (F5)
+
+========================================
+
+A imagem aparecerá:
+- Bem borrada (blur de 8px)
+- Com overlay escuro (70% de opacidade)
+- Sem atrapalhar a leitura do texto
+- Cobrindo toda a tela
+- Fixa durante a rolagem
+
+Se quiser ajustar o efeito, edite o arquivo:
+public/css/styles.css
+
+========================================
